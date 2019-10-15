@@ -1,6 +1,7 @@
 # Classic-Reading-List
 Source: https://www.reddit.com/r/books/comments/87o589/the_essential_classics_list_see_link_to_original/?st=JFAFK97H&sh=36cd4a9d
 
+(In Progress) The Book Thief, Markus Zusak (2007)
 - [ ] How to Read Literature Like a Professor, Thomas C. Foster (2003) - 9:35
 - [ ] Epic of Gilgamesh, n/a (c. 2100 BCE) - 4:05
 - [ ] The Iliad, Homer (c. 750 BCE) - 14:00
