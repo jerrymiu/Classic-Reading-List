@@ -2,6 +2,7 @@
 Source: https://www.reddit.com/r/books/comments/87o589/the_essential_classics_list_see_link_to_original/?st=JFAFK97H&sh=36cd4a9d
 
 - [x] The Book Thief, Markus Zusak (2007) finished Oct 25, 2019
+- (In Progress) To Kill a Mockingbird, Harper Lee (1960) - 12:17
 - [ ] How to Read Literature Like a Professor, Thomas C. Foster (2003) - 9:35
 - [ ] Epic of Gilgamesh, n/a (c. 2100 BCE) - 4:05
 - [ ] The Iliad, Homer (c. 750 BCE) - 14:00
@@ -101,7 +102,6 @@ Source: https://www.reddit.com/r/books/comments/87o589/the_essential_classics_li
 - [ ] Atlas Shrugged, Ayn Rand (1957) - 63:00
 - [ ] Things Fall Apart, Chinua Achebe (1958) - 6:30
 - [ ] Flowers for Algernon, Daniel Keyes (1959) - 8:58
-- [ ] To Kill a Mockingbird, Harper Lee (1960) - 12:17
 - [ ] Catch-22, Joseph Heller (1961) - 20:01
 - [ ] Where the Red Fern Grows, Wilson Rawls (1961) - 6:45
 - [ ] E. E. Cummings (1894-1962) - 1:00
